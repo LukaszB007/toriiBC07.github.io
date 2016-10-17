@@ -11,3 +11,6 @@ section{
 .content{
   background-color: grey;
 }
+img{
+  max-width: 100px;
+}
