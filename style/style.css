@@ -1,0 +1,11 @@
+body{
+  width: 50%;
+  margin: 0 auto;
+  background-color: green;
+}
+.menu{
+  background-color: red;
+}
+.content{
+  background-color: grey;
+}
